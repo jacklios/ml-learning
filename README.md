@@ -1,5 +1,5 @@
 # ml-learning
 
 
-# Êı¾İ¼¯
+# æ•°æ®é›†
 [Machine learning datasets](https://www.datasetlist.com/)
